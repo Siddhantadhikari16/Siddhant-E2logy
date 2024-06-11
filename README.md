@@ -1,16 +1,9 @@
-# siddhant_e2logy
+# Siddhant Adhikari E2logy assignment 
+# Snapshots
+![image](https://github.com/Siddhantadhikari16/Siddhant-E2logy/assets/80845916/972aeb57-a58b-42b6-99ea-558778afd104)
 
-A new Flutter project.
+![image](https://github.com/Siddhantadhikari16/Siddhant-E2logy/assets/80845916/714e03d1-1611-4f48-912b-6bef448818dd)
 
-## Getting Started
+![image](https://github.com/Siddhantadhikari16/Siddhant-E2logy/assets/80845916/cda2fad5-605d-4853-8666-7547bf98755b)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/Siddhantadhikari16/Siddhant-E2logy/assets/80845916/20fd1868-d333-4d69-94f7-2e9efcda4076)
